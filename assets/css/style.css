@@ -1,0 +1,41 @@
+
+.letra>ul>li>a{
+ color: #001F3F !important;
+} 
+
+.bg-nav{
+    background: rgba(246,46,36,1);
+    background: -webkit-linear-gradient(top, rgba(246,46,36,1) 0%, rgba(255,54,121,1) 100%);
+    background: linear-gradient(to bottom, rgba(246,46,36,1) 0%, rgba(255,54,121,1) 100%);
+}
+
+.boton{
+    background: #001F3F;
+    color: white;
+    border: 1px solid black;
+}
+
+.btn-outline-success:hover{
+    border: 1px solid white;
+    background: #043b72 ;
+}
+
+.card-img-top{
+    width: 70px;
+    display: flex;
+    align-self: center;
+  
+}
+
+.btn-form{
+    width: 100%;
+    background: rgba(246,46,36,1);
+    background: -webkit-linear-gradient(top, rgba(246,46,36,1) 0%, rgba(255,54,121,1) 100%);
+    background: linear-gradient(to bottom, rgba(246,46,36,1) 0%, rgba(255,54,121,1) 100%);
+    font-size: large;
+    font-weight: 500;
+}
+
+.slide{
+    height: 500px;
+}
